@@ -8,15 +8,21 @@ Repositorio dedicado al aprendizaje y práctica de la programación con **Ruby**
 * **`Prueba/`** 🧪: Contiene los retos de código y prácticas autónomas (`prueba1.rb`, `prueba2.rb`, etc.) para validar el conocimiento adquirido.
 
 ---
-
 ## 📝 Bitácora de Aprendizaje
 
 ### 1. Programación Orientada a Objetos (POO)
 
-| Archivo | Tipo | Descripción | Estado |
+| Archivo / Carpeta | Tipo | Descripción | Estado |
 | :--- | :--- | :--- | :--- |
-| `Ejercicio/ejercicio1.rb` | 📘 Concepto | Clases, Atributos (`@`), Inicializadores (`initialize`) y Métodos. | ⏳ En proceso |
-| `Prueba/prueba1.rb` | 🧪 Prueba | Modificación de atributos y creación de múltiples instancias. | ⏳ Pendiente |
+| `Ejercicio/ejercicio1.rb` | 📘 Concepto | Clases, Atributos (`@`), Inicializadores y Métodos básicos. | ✅ Completado |
+| `Prueba/prueba1.rb` | 🧪 Prueba | El Concesionario: Instancias y métodos con lógica propia. | ✅ Completado |
+| `Ejercicio/ejercicio2.rb` | 📘 Concepto | Encapsulamiento y macros de atributos (`attr_reader`, `attr_accessor`). | ✅ Completado |
+| `Prueba/prueba2.rb` | 🧪 Prueba | Gestión de Empleados: Control de accesos y validaciones de salario. | ✅ Completado |
+| `Ejercicio/03_Herencia/` | 📘 Concepto | Súper clases, subclases (`<`) y conexión modular con `require_relative`. | ✅ Completado |
+| `Prueba/03_Herencia/` | 🧪 Prueba | Sistema de Transportes: Algoritmo avanzado para recarga exacta de combustible sin desborde. | ✅ Completado |
+| `Ejercicio/04_Polimorfismo/` | 📘 Concepto | Sobrescritura de métodos y comportamiento dinámico de clases hijas. | ⏳ Siguiente paso |
+| `Prueba/04_Polimorfismo/` | 🧪 Prueba | Sistema de Notificaciones: Bucle `.each` aplicando polimorfismo. | ⏳ Pendiente |
+
 
 ---
 
